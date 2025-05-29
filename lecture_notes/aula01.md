@@ -6,7 +6,9 @@
 * Será explorada a possibilidade de aprender econometria com o ChatGPT, destacando que a parte tecnológica do ChatGPT é muito boa para gerar códigos. A limitação apontada é que a melhor comunicação com o ChatGPT é em inglês, pois a qualidade cai com o português.
 * O curso terá uma parte teórica que cobrirá vários tópicos de forma aprofundada, com ênfase no domínio da notação teórica para uma comunicação eficaz.
 * Haverá uma parte prática com códigos em R, utilizando muitos "loops" para incluir dinâmica na estimação dos modelos.
-* Os livros de referência para a parte teórica serão Walter Anders e James Hamilton (Time Series Analysis).
+* Os livros de referência para a parte teórica serão:
+Walter Anders (Applied Econometric Time Series) e
+James Hamilton (Time Series Analysis).
 
 ### **Conceitos Fundamentais de Séries Temporais:**
 
