@@ -53,7 +53,7 @@ James Hamilton (Time Series Analysis).
     * A definição de correlação é a força e direção da associação entre variáveis.
     * No contexto de séries temporais, a autocorrelação ($\rho_j$) de um processo AR(1) é igual a $\alpha^j$, onde $\alpha$ é o coeficiente autorregressivo.
     * Para processos AR, a autocorrelação **decai lentamente**.
-* **Autocorrelação Parcial (PACF)**: Mede a correlação entre Yt e Yt-j após remover o efeito das variáveis intermediárias ($Y_{t-1}$, ..., $Y_{t-j+1}$).
+* **Autocorrelação Parcial (PACF)**: Mede a correlação entre $Y_t$ e $Y_{t-j}$ após remover o efeito das variáveis intermediárias ($Y_{t-1}$, ..., $Y_{t-j+1}$).
     * Para um processo AR(1), a autocorrelação parcial terá um "spike" (pico significativo) apenas no primeiro lag e será zero para os lags seguintes. Isso ajuda a determinar o número de lags (P) em um modelo AR.
 
 ### **Estacionariedade**:
