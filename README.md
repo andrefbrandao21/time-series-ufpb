@@ -17,7 +17,7 @@ Este repositório está sendo construído com o intuito de resumir os principais
 
 ## Descrição dos diretórios
 
-O diretório *lecture_notes* contém o resumo das aulas e o diretório *codes* contém os scripts em R comentados.
+O diretório *lecture_notes* contém os resumos das aulas e o diretório *codes* contém os scripts em R comentados.
 
 os códigos em R estão no formato de jupyter notebooks para fins de estudo.
 
