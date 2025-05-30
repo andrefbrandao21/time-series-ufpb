@@ -15,7 +15,15 @@ Este repositório está sendo construído com o intuito de resumir os principais
     * **R:** Linguagem de programação utilizada para a parte prática e códigos.
     * **ChatGPT:** Pode ser explorado para aprender econometria e gerar códigos, embora a comunicação em inglês seja mais eficaz.
 
+## Descrição dos diretórios
+
+O diretório *lecture_notes* contém o resumo das aulas e o diretório *codes* contém os scripts em R comentados.
+
+os códigos em R estão no formato de jupyter notebooks para fins de estudo.
+
 ## Contribuições
 
 Este repositório é um resumo da disciplina e está em construção. Contribuições são bem-vindas para enriquecer o conteúdo!
+
+
 
