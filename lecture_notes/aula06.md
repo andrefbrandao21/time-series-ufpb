@@ -54,8 +54,8 @@ Esta parte da aula introduz um método para avaliação de políticas públicas 
 * **Previsão do Contrafactual:** Esse cenário hipotético é chamado de **contrafactual**. O objetivo de métodos como o Controle Sintético é prever o contrafactual.
 * **O Efeito da Política:** O efeito da intervenção é a diferença entre o valor observado na unidade que sofreu a política e o valor do seu contrafactual previsto.
 
-    $$\text{Efeito}_{\text{política}} = Y_{\text{observado}} - Y_{\text{contrafactual previsto}}$$
-
+    $$ \mathrm{Efeito}_{\mathrm{politica}} = Y_{\mathrm{observado}} - Y_{\mathrm{contrafactual\_previsto}} $$
+    
 #### 2. Estrutura dos Dados e Cenário de Aplicação
 * O Controle Sintético é aplicado a um tipo específico de base de dados.
 * **Uma Unidade Tratada:** Apenas uma unidade agregada (um estado, uma cidade, uma escola) é exposta à política ou intervenção. Esta é chamada de "unidade tratada".
