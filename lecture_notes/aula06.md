@@ -53,6 +53,7 @@ Esta parte da aula introduz um método para avaliação de políticas públicas 
 * **Problema Central:** Para avaliar o efeito de uma política pública, é necessário saber qual seria o valor de uma variável de interesse (ex: renda, criminalidade) se essa política não tivesse sido implementada.
 * **Previsão do Contrafactual:** Esse cenário hipotético é chamado de **contrafactual**. O objetivo de métodos como o Controle Sintético é prever o contrafactual.
 * **O Efeito da Política:** O efeito da intervenção é a diferença entre o valor observado na unidade que sofreu a política e o valor do seu contrafactual previsto.
+
     $$\text{Efeito}_{\text{política}} = Y_{\text{observado}} - Y_{\text{contrafactual previsto}}$$
 
 #### 2. Estrutura dos Dados e Cenário de Aplicação
